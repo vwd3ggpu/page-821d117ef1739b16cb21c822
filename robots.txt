@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.xn--yournetspeeder-t45yp68p.com/sitemap.xml
